@@ -1,0 +1,9 @@
+package ch.makery.address.view
+
+import javafx.scene.layout.BorderPane
+
+component RootLayout {
+	BorderPane {
+		//TODO Add Nodes
+	}
+}
